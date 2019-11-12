@@ -21,9 +21,9 @@ while True:
         conf = int(np.round(conf))
         
         if(conf > 50):
-            if(Id==1):
+            if(Id==2):
                 Id="Matheus "
-            elif(Id==2):
+            elif(Id==1):
                 Id="Flavia "
             elif(Id==3):
                 Id="Mano "
